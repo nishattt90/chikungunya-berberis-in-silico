@@ -1,0 +1,30 @@
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+ROOT
+HETATM    1  C   UNK N   0      -3.118  -7.470  -0.000  0.00  0.00     0.167 A 
+HETATM    2  O   UNK N   0      -2.524  -6.387  -0.000  0.00  0.00    -0.318 OA
+HETATM    3  C   UNK N   0      -1.164  -6.324   0.000  0.00  0.00     0.109 A 
+HETATM    4  C   UNK N   0      -0.505  -5.093  -0.000  0.00  0.00     0.041 A 
+HETATM    5  C   UNK N   0       0.894  -5.047   0.000  0.00  0.00     0.015 A 
+HETATM    6  C   UNK N   0       1.639  -6.232  -0.000  0.00  0.00    -0.019 A 
+HETATM    7  C   UNK N   0       3.035  -6.185   0.000  0.00  0.00     0.043 A 
+HETATM    8  C   UNK N   0       3.777  -7.378  -0.000  0.00  0.00     0.046 A 
+HETATM    9  C   UNK N   0       5.195  -7.349  -0.000  0.00  0.00    -0.018 A 
+HETATM   10  C   UNK N   0       5.937  -6.019   0.000  0.00  0.00     0.109 A 
+HETATM   11  C   UNK N   0       7.430  -6.182   0.000  0.00  0.00     0.083 A 
+HETATM   12  C   UNK N   0       8.058  -7.327   0.000  0.00  0.00     0.083 A 
+HETATM   13  O   UNK N   0       9.373  -7.079  -0.000  0.00  0.00    -0.327 OA
+HETATM   14  C   UNK N   0       9.457  -5.724  -0.000  0.00  0.00     0.351 A 
+HETATM   15  O   UNK N   0       8.344  -5.195   0.000  0.00  0.00    -0.327 OA
+HETATM   16  C   UNK N   0       7.406  -8.669  -0.000  0.00  0.00     0.106 A 
+HETATM   17  C   UNK N   0       5.898  -8.583   0.000  0.00  0.00    -0.042 A 
+HETATM   18  C   UNK N   0       5.186  -9.778  -0.000  0.00  0.00     0.025 A 
+HETATM   19  C   UNK N   0       3.796  -9.762   0.000  0.00  0.00     0.097 A 
+HETATM   20  N   UNK N   0       3.111  -8.589   0.000  0.00  0.00    -0.331 N 
+HETATM   21  C   UNK N   0       1.749  -8.647  -0.000  0.00  0.00     0.112 A 
+HETATM   22  C   UNK N   0       0.982  -7.480   0.000  0.00  0.00     0.027 A 
+HETATM   23  C   UNK N   0      -0.424  -7.526  -0.000  0.00  0.00     0.121 A 
+HETATM   24  O   UNK N   0      -1.102  -8.709   0.000  0.00  0.00    -0.317 OA
+HETATM   25  C   UNK N   0      -2.338  -8.744   0.000  0.00  0.00     0.167 A 
+ENDROOT
+TORSDOF 0

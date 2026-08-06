@@ -8,7 +8,7 @@ Computational screening and 10 ns Molecular Dynamics (MD) evaluation of bio-acti
 
 ---
 
-## 🔬 Methodology Overview
+## Methodology Overview
 
 ### 1. Data Collection & Preparation
 - **Target Retrieval:** PDB structures acquired and processed (water molecules and heterogens removed, missing loops repaired).

@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![GROMACS](https://img.shields.io/badge/MD%20Simulation-GROMACS-blue)](https://www.gromacs.org/)
 
-## 📌 Project Overview
+## Project Overview
 Computational screening and 10 ns Molecular Dynamics (MD) evaluation of bio-active phytochemicals derived from *Berberis lycium* against critical non-structural replication proteins (nsp1, nsp2, nsp3) of Chikungunya Virus (CHIKV).
 
 ---
@@ -27,7 +27,7 @@ Computational screening and 10 ns Molecular Dynamics (MD) evaluation of bio-acti
 
 ---
 
-## 📊 Key Results
+## Key Results
 
 | Target | Lead Phytochemical | Binding Affinity (kcal/mol) | 10 ns RMSD (Average) |
 | :--- | :--- | :--- | :--- |
@@ -40,5 +40,5 @@ Computational screening and 10 ns Molecular Dynamics (MD) evaluation of bio-acti
 
 ---
 
-## 🖼️ Pose Visualizations
-*(Embed 1-2 key 2D/3D docking figure highlights here)*# chikungunya-berberis-in-silico
+## Pose Visualizations
+

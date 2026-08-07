@@ -37,9 +37,9 @@ Computational screening and 10 ns Molecular Dynamics (MD) evaluation of bio-acti
 
 | Target | Lead Phytochemical | Binding Affinity (kcal/mol) | 10 ns RMSD (Average) |
 | :--- | :--- | :--- | :--- |
-| **nsp1** | Berberine | -10.7 | X.XX nm |
-| **nsp2** | Berberine | -9.0 | X.XX nm |
-| **nsp3** | Berberine | -11.5 | X.XX nm |
+| **nsp1** | Berberine | -10.7 | 0.2861 nm |
+| **nsp2** | Berberine | -9.0 | 0.1815 nm |
+| **nsp3** | Berberine | -11.5 | 0.2071 nm |
 | **nsp1** | Palmatine | -8.2 | X.XX nm |
 | **nsp2** | Palmatine | -7.6 | X.XX nm |
 | **nsp3** | Palmatine | -9.2 | X.XX nm |
